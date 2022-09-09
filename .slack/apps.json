@@ -1,0 +1,10 @@
+{
+  "apps": {
+    "lunchlurkers": {
+      "name": "lunchlurkers",
+      "app_id": "A041LT6DK4N",
+      "team_id": "T010N16EQNM"
+    }
+  },
+  "default": "lunchlurkers"
+}
